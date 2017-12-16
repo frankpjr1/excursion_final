@@ -1,0 +1,53 @@
+/* zero out margin and padding for the site */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #000;
+  font-family: verdana;
+  color: #fff;
+  text-align: center;
+
+
+}
+
+/* style the h2 */
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* styles for coming soon link */
+.soon {
+    color: Aquamarine;
+    font-size: 16px;
+    margin-bottom: 30px;
+
+  }
+
+  /* added margins to the pargraphs */
+
+img,p,video {
+  margin:20px 0px 20px 0px;
+}
+
+/* style the h2 */
+h2 {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  margin:20px 0px 20px 0px;
+}
+
+/* footer section styles */
+
+#footer {
+
+  text-align: right;
+  margin:20px 10px 20px 0px;
+}
